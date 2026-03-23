@@ -100,8 +100,15 @@ The workflow covers the entire data pipeline — from **data cleaning and transf
 ---
 
 ## 📸 Dashboard Preview
+k
+## 📊 Sales Overview Dashboard
+![Sales Overview](images/sales_overview.png)
 
-*(Add screenshots of your Power BI dashboard here)*
+## 👥 Customer Insights Dashboard
+![Customer Insights](images/customer_insights.png)
+
+## 📦 Product Insights Dashboard
+![Product Insights](images/product_insights.png)
 
 ---
 
