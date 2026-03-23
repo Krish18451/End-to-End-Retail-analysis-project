@@ -99,19 +99,6 @@ The workflow covers the entire data pipeline — from **data cleaning and transf
 
 ---
 
-## 📸 Dashboard Preview
-k
-## 📊 Sales Overview Dashboard
-![Sales Overview](images/sales_overview.png)
-
-## 👥 Customer Insights Dashboard
-![Customer Insights](images/customer_insights.png)
-
-## 📦 Product Insights Dashboard
-![Product Insights](images/product_insights.png)
-
----
-
 ## 📁 Dataset Details
 
 * Dataset: **Online Retail Dataset**
